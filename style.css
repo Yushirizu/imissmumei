@@ -47,6 +47,11 @@ div.center {
   padding: 10px;
 }
 
+.center {
+  text-align: center;
+}
+
+
 .countup {
   text-align: center;
   margin-bottom: 20px;
@@ -67,3 +72,4 @@ div.center {
   background: #e8c152;
   color: black;
 }
+
